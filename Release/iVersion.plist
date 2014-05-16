@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>1.1</key>
+	<key>1.0.6</key>
 	<string>1. 播放 iPhone/iPod 音乐；
 2. 列出已安装的已知导航/地图程序，点击后启动地图/导航；
 3. 输出声音到车载蓝牙上。</string>
