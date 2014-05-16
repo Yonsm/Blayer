@@ -10,7 +10,8 @@
 
 + (void)initialize
 {
-	iVersion.sharedInstance.remoteVersionsPlistURL = @"https://raw.githubusercontent.com/Yonsm/Blayer/master/iVersion.plist";
+	iVersion.sharedInstance.remoteVersionsPlistURL = @"https://raw.githubusercontent.com/Yonsm/Blayer/master/Release/iVersion.plist";
+	iVersion.sharedInstance.updateURL = [NSURL URLWithString:@"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Yonsm/Blayer/master/Release/Blayer.plist"];
 }
 
 #pragma mark Monitoring Application State Changes
