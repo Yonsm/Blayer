@@ -43,9 +43,6 @@
 /* Dismiss */
 "Dismiss" = "关闭";
 
-/* Done */
-"Done" = "完成";
-
 /* Download */
 "Download" = "下载";
 
@@ -76,9 +73,6 @@
 /* New version available */
 "New version available" = "有新的版本";
 
-/* Next */
-"Next" = "下一项";
-
 /* OK */
 "OK" = "好的";
 
@@ -87,12 +81,6 @@
 
 /* Ovital Maps */
 "Ovital Maps" = "奥维地图";
-
-/* Pull down to refresh... */
-"Pull down to refresh..." = "下拉可以更新⋯";
-
-/* Release to refresh... */
-"Release to refresh..." = "松开立即更新⋯";
 
 /* Remind Me Later */
 "Remind Me Later" = "回头再说";

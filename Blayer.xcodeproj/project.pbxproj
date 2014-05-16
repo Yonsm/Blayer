@@ -26,25 +26,17 @@
 		246A32FE186838ED00903EF4 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 246A3249186838ED00903EF4 /* Icon.png */; };
 		246A32FF186838ED00903EF4 /* Icon7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 246A324A186838ED00903EF4 /* Icon7@2x.png */; };
 		246A3300186838ED00903EF4 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 246A324B186838ED00903EF4 /* Icon@2x.png */; };
-		246A3309186838ED00903EF4 /* NullController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A3266186838ED00903EF4 /* NullController.mm */; };
-		246A330A186838ED00903EF4 /* ShareComposer.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A3268186838ED00903EF4 /* ShareComposer.mm */; };
-		246A330B186838ED00903EF4 /* WebController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A326A186838ED00903EF4 /* WebController.mm */; };
 		246A3314186838ED00903EF4 /* Main.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A3280186838ED00903EF4 /* Main.mm */; };
-		246A3322186838ED00903EF4 /* HttpUtil.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A329F186838ED00903EF4 /* HttpUtil.mm */; };
 		246A3324186838ED00903EF4 /* NSUtil.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A32A3186838ED00903EF4 /* NSUtil.mm */; };
 		246A3325186838ED00903EF4 /* NullObject.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A32A5186838ED00903EF4 /* NullObject.mm */; };
-		246A3326186838ED00903EF4 /* SettingUtil.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A32A7186838ED00903EF4 /* SettingUtil.mm */; };
 		246A3328186838ED00903EF4 /* UIUtil.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A32AC186838ED00903EF4 /* UIUtil.mm */; };
-		246A332A186838ED00903EF4 /* CacheImageView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A32B1186838ED00903EF4 /* CacheImageView.mm */; };
-		246A332F186838ED00903EF4 /* NullView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A32BB186838ED00903EF4 /* NullView.mm */; };
 		246A3330186838ED00903EF4 /* ODRefreshControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 246A32BD186838ED00903EF4 /* ODRefreshControl.m */; };
-		246A3331186838ED00903EF4 /* PredictScrollView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A32BF186838ED00903EF4 /* PredictScrollView.mm */; };
-		246A3333186838ED00903EF4 /* SegmentLabel.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A32C3186838ED00903EF4 /* SegmentLabel.mm */; };
-		246A3337186838ED00903EF4 /* ToastView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A32CB186838ED00903EF4 /* ToastView.mm */; };
-		246A3338186838ED00903EF4 /* TouchView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 246A32CD186838ED00903EF4 /* TouchView.mm */; };
 		246A333F1868394000903EF4 /* Assets in Resources */ = {isa = PBXBuildFile; fileRef = 246A333E1868394000903EF4 /* Assets */; };
 		247206F019234CD300E6FB1F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 247206EF19234CD300E6FB1F /* AVFoundation.framework */; };
 		247206F8192352D900E6FB1F /* WaveView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 247206F7192352D900E6FB1F /* WaveView.mm */; };
+		2493B81C1926025E00049C60 /* iVersion.m in Sources */ = {isa = PBXBuildFile; fileRef = 24208EB318851A980058AD7E /* iVersion.m */; };
+		2493B81D1926028600049C60 /* libMobClickLibrary.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 246A3282186838ED00903EF4 /* libMobClickLibrary.a */; };
+		2493B81F1926038B00049C60 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 2493B81E1926038B00049C60 /* libz.dylib */; };
 		24B6BB3B18E554390058FC8B /* EXButton.mm in Sources */ = {isa = PBXBuildFile; fileRef = 24B6BB3A18E554390058FC8B /* EXButton.mm */; };
 /* End PBXBuildFile section */
 
@@ -84,7 +76,6 @@
 		246A324F186838ED00903EF4 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		246A3250186838ED00903EF4 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		246A3251186838ED00903EF4 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		246A325F186838ED00903EF4 /* CelePrefix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CelePrefix.h; sourceTree = "<group>"; };
 		246A3265186838ED00903EF4 /* NullController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NullController.h; sourceTree = "<group>"; };
 		246A3266186838ED00903EF4 /* NullController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = NullController.mm; sourceTree = "<group>"; };
 		246A3267186838ED00903EF4 /* ShareComposer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShareComposer.h; sourceTree = "<group>"; };
@@ -95,7 +86,6 @@
 		246A3282186838ED00903EF4 /* libMobClickLibrary.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libMobClickLibrary.a; sourceTree = "<group>"; };
 		246A3283186838ED00903EF4 /* MobClick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobClick.h; sourceTree = "<group>"; };
 		246A3284186838ED00903EF4 /* StatCenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatCenter.h; sourceTree = "<group>"; };
-		246A3285186838ED00903EF4 /* Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		246A329E186838ED00903EF4 /* HttpUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HttpUtil.h; sourceTree = "<group>"; };
 		246A329F186838ED00903EF4 /* HttpUtil.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = HttpUtil.mm; sourceTree = "<group>"; };
 		246A32A2186838ED00903EF4 /* NSUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSUtil.h; sourceTree = "<group>"; };
@@ -123,10 +113,11 @@
 		246A32CD186838ED00903EF4 /* TouchView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = TouchView.mm; sourceTree = "<group>"; };
 		246A333D1868392900903EF4 /* Documents */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Documents; sourceTree = "<group>"; };
 		246A333E1868394000903EF4 /* Assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Assets; sourceTree = "<group>"; };
-		246A334418683DB100903EF4 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		247206EF19234CD300E6FB1F /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		247206F6192352D900E6FB1F /* WaveView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WaveView.h; sourceTree = "<group>"; };
 		247206F7192352D900E6FB1F /* WaveView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = WaveView.mm; sourceTree = "<group>"; };
+		2493B81B1926024E00049C60 /* Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
+		2493B81E1926038B00049C60 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		24B6BB3918E554390058FC8B /* EXButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EXButton.h; sourceTree = "<group>"; };
 		24B6BB3A18E554390058FC8B /* EXButton.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = EXButton.mm; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -136,11 +127,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2493B81F1926038B00049C60 /* libz.dylib in Frameworks */,
 				241F57A71924659500F7D201 /* AudioToolbox.framework in Frameworks */,
 				241F57A51924653600F7D201 /* MediaPlayer.framework in Frameworks */,
 				247206F019234CD300E6FB1F /* AVFoundation.framework in Frameworks */,
 				246A319618682C2D00903EF4 /* CoreGraphics.framework in Frameworks */,
 				246A319818682C2D00903EF4 /* UIKit.framework in Frameworks */,
+				2493B81D1926028600049C60 /* libMobClickLibrary.a in Frameworks */,
 				246A319418682C2D00903EF4 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -171,10 +164,10 @@
 		246A319218682C2D00903EF4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				2493B81E1926038B00049C60 /* libz.dylib */,
 				241F57A61924659500F7D201 /* AudioToolbox.framework */,
 				241F57A41924653600F7D201 /* MediaPlayer.framework */,
 				247206EF19234CD300E6FB1F /* AVFoundation.framework */,
-				246A334418683DB100903EF4 /* CoreLocation.framework */,
 				246A319318682C2D00903EF4 /* Foundation.framework */,
 				246A319518682C2D00903EF4 /* CoreGraphics.framework */,
 				246A319718682C2D00903EF4 /* UIKit.framework */,
@@ -258,10 +251,9 @@
 		246A325A186838ED00903EF4 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				2493B81B1926024E00049C60 /* Prefix.pch */,
 				246A3280186838ED00903EF4 /* Main.mm */,
-				246A3285186838ED00903EF4 /* Prefix.pch */,
 				24208EBC18852E0E0058AD7E /* CeleUtil.h */,
-				246A325F186838ED00903EF4 /* CelePrefix.h */,
 				246A329B186838ED00903EF4 /* Util */,
 				246A32AD186838ED00903EF4 /* View */,
 				246A3260186838ED00903EF4 /* Controller */,
@@ -442,28 +434,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				246A332F186838ED00903EF4 /* NullView.mm in Sources */,
 				246A32E3186838ED00903EF4 /* RootController.mm in Sources */,
-				246A330A186838ED00903EF4 /* ShareComposer.mm in Sources */,
 				246A3330186838ED00903EF4 /* ODRefreshControl.m in Sources */,
+				2493B81C1926025E00049C60 /* iVersion.m in Sources */,
 				247206F8192352D900E6FB1F /* WaveView.mm in Sources */,
-				246A3326186838ED00903EF4 /* SettingUtil.mm in Sources */,
 				246A3328186838ED00903EF4 /* UIUtil.mm in Sources */,
 				246A3325186838ED00903EF4 /* NullObject.mm in Sources */,
 				241F57AA192467FD00F7D201 /* IPADeploy.m in Sources */,
-				246A3309186838ED00903EF4 /* NullController.mm in Sources */,
 				246A32DC186838ED00903EF4 /* BaseController.mm in Sources */,
-				246A332A186838ED00903EF4 /* CacheImageView.mm in Sources */,
 				24B6BB3B18E554390058FC8B /* EXButton.mm in Sources */,
 				246A32D8186838ED00903EF4 /* AppDelegate.mm in Sources */,
-				246A3333186838ED00903EF4 /* SegmentLabel.mm in Sources */,
-				246A330B186838ED00903EF4 /* WebController.mm in Sources */,
 				246A3314186838ED00903EF4 /* Main.mm in Sources */,
-				246A3331186838ED00903EF4 /* PredictScrollView.mm in Sources */,
 				246A32E0186838ED00903EF4 /* TableController.mm in Sources */,
-				246A3338186838ED00903EF4 /* TouchView.mm in Sources */,
-				246A3322186838ED00903EF4 /* HttpUtil.mm in Sources */,
-				246A3337186838ED00903EF4 /* ToastView.mm in Sources */,
 				241F5798192458B000F7D201 /* IconPane.mm in Sources */,
 				246A3324186838ED00903EF4 /* NSUtil.mm in Sources */,
 			);
@@ -583,6 +565,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Sources/Prefix.pch;
 				INFOPLIST_FILE = Resources/Info.plist;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Sources/MobClick",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -597,6 +583,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Sources/Prefix.pch;
 				INFOPLIST_FILE = Resources/Info.plist;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Sources/MobClick",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;

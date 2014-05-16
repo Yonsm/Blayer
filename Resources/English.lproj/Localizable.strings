@@ -43,9 +43,6 @@
 /* Dismiss */
 "Dismiss" = "Dismiss";
 
-/* Done */
-"Done" = "Done";
-
 /* Download */
 "Download" = "Download";
 
@@ -76,9 +73,6 @@
 /* New version available */
 "New version available" = "New version available";
 
-/* Next */
-"Next" = "Next";
-
 /* OK */
 "OK" = "OK";
 
@@ -87,12 +81,6 @@
 
 /* Ovital Maps */
 "Ovital Maps" = "Ovital Maps";
-
-/* Pull down to refresh... */
-"Pull down to refresh..." = "Pull down to refresh...";
-
-/* Release to refresh... */
-"Release to refresh..." = "Release to refresh...";
 
 /* Remind Me Later */
 "Remind Me Later" = "Remind Me Later";
