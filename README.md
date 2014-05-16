@@ -14,7 +14,7 @@ Play iPod Music and Maps Voice via Bluetooth HFP
 
 ##下载##
 
-[![点击下载](Release/QRCode.png)](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Yonsm/Blayer/master/Release/Blayer.plist)
+![扫描下载](Release/QRCode.png)]
 
 ###历史###
 
