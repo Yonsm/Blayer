@@ -4,6 +4,7 @@
 #import "IconPane.h"
 #import "IPADeploy.h"
 #import "EXButton.h"
+#import <dlfcn.h>
 
 @interface MusicItemCell : UITableViewCell
 @end
