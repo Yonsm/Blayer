@@ -1,11 +1,17 @@
 
 #import "AppDelegate.h"
 #import "RootController.h"
+#import "iVersion.h"
 
 //
 @implementation AppDelegate
 
 #pragma mark Generic methods
+
++ (void)initialize
+{
+	iVersion.sharedInstance.remoteVersionsPlistURL = @"https://raw.githubusercontent.com/Yonsm/Blayer/master/iVersion.plist";
+}
 
 #pragma mark Monitoring Application State Changes
 
