@@ -44,7 +44,7 @@
 "Dismiss" = "关闭";
 
 /* Download */
-"Download" = "下载";
+"Download" = "立即下载";
 
 /* Error */
 "Error" = "错误";
@@ -83,7 +83,7 @@
 "Ovital Maps" = "奥维地图";
 
 /* Remind Me Later */
-"Remind Me Later" = "回头再说";
+"Remind Me Later" = "以后再说";
 
 /* Send via Email */
 "Send via Email" = "发送邮件链接";

@@ -44,7 +44,7 @@
 "Dismiss" = "關閉";
 
 /* Download */
-"Download" = "下載";
+"Download" = "立即下載";
 
 /* Error */
 "Error" = "錯誤";
@@ -83,7 +83,7 @@
 "Ovital Maps" = "奧維地圖";
 
 /* Remind Me Later */
-"Remind Me Later" = "回頭再說";
+"Remind Me Later" = "以後再說";
 
 /* Send via Email */
 "Send via Email" = "發送郵件鏈接";
