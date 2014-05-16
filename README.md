@@ -14,7 +14,7 @@ Play iPod Music and Maps Voice via Bluetooth HFP
 
 ##下载##
 
-![扫描下载](Release/QRCode.png)]
+![扫描下载](Release/QRCode.png)
 
 ###历史###
 
