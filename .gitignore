@@ -1,10 +1,5 @@
 
-Blayer.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+*.xcuserdatad
+*.xcworkspace
+Extras
 
-Blayer.xcodeproj/project.xcworkspace/xcshareddata/Blayer.xccheckout
-
-Blayer.xcodeproj/xcuserdata/Yonsm.xcuserdatad/xcschemes/Blayer.xcscheme
-
-Blayer.xcodeproj/project.xcworkspace/xcuserdata/Yonsm.xcuserdatad/UserInterfaceState.xcuserstate
-
-Blayer.xcodeproj/xcuserdata/Yonsm.xcuserdatad/xcschemes/xcschememanagement.plist
